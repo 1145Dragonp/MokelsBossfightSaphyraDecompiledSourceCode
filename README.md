@@ -1,13 +1,13 @@
 # Mokels Bossfight: Saphyra — Decompiled Source Code
 
-> This repository currently contains only decompiled source code from the original mod. It has not been ported yet and cannot be used as a runnable mod.
+> This repository currently contains only decompiled source code from the original mod. it can run in the development environment. 
 
 ## Project Status
 
 - Current status: **Decompiled source Code / research only**
 - Original mod: *Mokels Bossfight: Saphyra*, later renamed to *Mokels The Shattered Goddess*
 - Original target: Minecraft 1.20.1 Forge
-- Development tool: MCreator
+- Original Development tool: MCreator
 - Porting progress: Not started
 
 ## Decompilation Tools
@@ -43,8 +43,3 @@ Any new or modified content added by the repository author, including package re
 - Document compilation errors and fixes;
 - Evaluate feasibility of porting to Minecraft 1.20.1 NeoForge;
 - Decide whether to begin an official port after confirming the original license.
-
-## Links
-
-- Original mod page: CurseForge / MC Mod Encyclopedia
-- This repository is an unofficial research archive only
