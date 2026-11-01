@@ -1,4 +1,4 @@
-# Mokels Bossfight: Saphyra — Decompiled Source Snapshot
+# Mokels Bossfight: Saphyra — Decompiled Source Code
 
 > This repository currently contains only decompiled source code from the original mod. It has not been ported yet and cannot be used as a runnable mod.
 
