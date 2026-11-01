@@ -41,5 +41,5 @@ Any new or modified content added by the repository author, including package re
 
 - Analyze the original mod's dependency structure;
 - Document compilation errors and fixes;
-- Evaluate feasibility of porting to Minecraft 1.20.1 NeoForge;
+- Evaluate feasibility of porting to Minecraft 1.21.1 NeoForge;
 - Decide whether to begin an official port after confirming the original license.
