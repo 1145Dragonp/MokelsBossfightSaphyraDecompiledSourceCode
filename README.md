@@ -4,7 +4,7 @@
 
 ## Project Status
 
-- Current status: **Decompiled source snapshot / research only**
+- Current status: **Decompiled source Code / research only**
 - Original mod: *Mokels Bossfight: Saphyra*, later renamed to *Mokels The Shattered Goddess*
 - Original target: Minecraft 1.20.1 Forge
 - Development tool: MCreator
