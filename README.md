@@ -24,7 +24,7 @@
 
 The source code in this repository has been **package-renamed**, and the build configuration or directory structure may have been adjusted.
 
-- For example, package name was changed to "package mrmd" Beginnin gwith "net.mcreator" replaced by "mrmd".
+- For example, package name was changed to package mrmd Beginning with "net.mcreator" replaced by "mrmd".
 
 - Package renaming is intended to avoid conflicts with the original mod and to facilitate future porting research;
 - The original mod code remains the property of its original author;
