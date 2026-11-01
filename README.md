@@ -1,4 +1,5 @@
 # Mokels Bossfight: Saphyra — Decompiled Source Code
+
 [Original MOD]("https://www.curseforge.com/minecraft/mc-mods/the-shattered-goddess-mokels-bossfight-saphyra/")
 
 > This repository currently contains only decompiled source code from the original mod. it can run in the development environment. 
@@ -22,6 +23,8 @@
 ## Code Notes
 
 The source code in this repository has been **package-renamed**, and the build configuration or directory structure may have been adjusted.
+
+- For example, package mame was changed to "package mrmd" with "net.mcreator" replaced by "mrmd".
 
 - Package renaming is intended to avoid conflicts with the original mod and to facilitate future porting research;
 - The original mod code remains the property of its original author;
