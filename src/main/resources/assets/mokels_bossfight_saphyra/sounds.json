@@ -1,0 +1,330 @@
+{
+  "witchbossmusic": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:epic_vampire_music_-_flight_of_the_bats",
+        "stream": true
+      }
+    ]
+  },
+  "witchbosstheme": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:epic_vampire_music_-_flight_of_the_bats",
+        "stream": true
+      }
+    ]
+  },
+  "usingflaskofhealing": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:flask_of_crimson_tears_sound_effect",
+        "stream": false
+      }
+    ]
+  },
+  "witchbossfighttheme": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:witchbossfighttheme",
+        "stream": true
+      }
+    ]
+  },
+  "crimsonflasksound": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:elden_ring__flask_of_crimson_tears_sound_effect",
+        "stream": false
+      }
+    ]
+  },
+  "spellcast": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:spellcastsaphyra",
+        "stream": false
+      }
+    ]
+  },
+  "saphyras_theme": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyras_theme_1",
+        "stream": true
+      }
+    ]
+  },
+  "phase2_o_mother": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyraphase2_o_mother",
+        "stream": false
+      }
+    ]
+  },
+  "enemy_felled": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:enemy_felled",
+        "stream": false
+      }
+    ]
+  },
+  "heavydooropening": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:heavy_metal_door_opening_and_closing",
+        "stream": false
+      }
+    ]
+  },
+  "statuesound": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:statuelyiorbells",
+        "stream": false
+      }
+    ]
+  },
+  "lyiorsoundstatue": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:lyiorsoundstatue",
+        "stream": false
+      }
+    ]
+  },
+  "rule_spell": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:spellmokel",
+        "stream": false
+      }
+    ]
+  },
+  "namelessscream": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:knightbossscream",
+        "stream": false
+      }
+    ]
+  },
+  "namelesstheme1": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme1",
+        "stream": true
+      }
+    ]
+  },
+  "namelesstheme2": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme2",
+        "stream": true
+      }
+    ]
+  },
+  "namelesstheme3": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme3",
+        "stream": true
+      }
+    ]
+  },
+  "namelesstheme4": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme4",
+        "stream": true
+      }
+    ]
+  },
+  "namelesstheme5": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme5",
+        "stream": true
+      }
+    ]
+  },
+  "namelesstheme6": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme6",
+        "stream": true
+      }
+    ]
+  },
+  "namelesstheme7": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:namelesstheme7",
+        "stream": true
+      }
+    ]
+  },
+  "saphyrastheme1": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyrastheme1",
+        "stream": true
+      }
+    ]
+  },
+  "saphyrastheme2": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyrastheme2",
+        "stream": true
+      }
+    ]
+  },
+  "saphyrastheme3": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyrastheme3",
+        "stream": true
+      }
+    ]
+  },
+  "saphyrastheme4": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyrastheme4",
+        "stream": true
+      }
+    ]
+  },
+  "saphyrastheme5": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyrastheme5",
+        "stream": true
+      }
+    ]
+  },
+  "saphyrastheme6": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:saphyrastheme6",
+        "stream": true
+      }
+    ]
+  },
+  "ivorydevil_theme1": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:ivorydevil_theme1",
+        "stream": true
+      }
+    ]
+  },
+  "ivorydevil_theme2": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:ivorydevil_theme2",
+        "stream": true
+      }
+    ]
+  },
+  "ivorydevil_theme3": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:ivorydevil_theme3",
+        "stream": true
+      }
+    ]
+  },
+  "ivorydevil_theme4": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:ivorydevil_theme4",
+        "stream": true
+      }
+    ]
+  },
+  "ivorydevil_theme5": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:ivorydevil_theme5",
+        "stream": true
+      }
+    ]
+  },
+  "ivorydevil_theme6": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:ivorydevil_theme6",
+        "stream": true
+      }
+    ]
+  },
+  "bosskilled": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:bosskilled",
+        "stream": false
+      }
+    ]
+  },
+  "infested1": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested1",
+        "stream": false
+      }
+    ]
+  },
+  "infested2": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested2",
+        "stream": false
+      }
+    ]
+  },
+  "infested3": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested3",
+        "stream": false
+      }
+    ]
+  },
+  "infested4": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested4",
+        "stream": false
+      }
+    ]
+  },
+  "infested5": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested5",
+        "stream": false
+      }
+    ]
+  },
+  "infested6": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested6",
+        "stream": false
+      }
+    ]
+  },
+  "idleinfested": {
+    "sounds": [
+      {
+        "name": "mokels_bossfight_saphyra:infested4",
+        "stream": false
+      }
+    ]
+  }
+}

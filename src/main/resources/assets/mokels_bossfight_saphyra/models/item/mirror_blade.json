@@ -1,0 +1,7 @@
+{
+  "parent": "mokels_bossfight_saphyra:custom/twindagger",
+  "textures": {
+    "0": "mokels_bossfight_saphyra:block/twindaggertexture",
+    "particle": "mokels_bossfight_saphyra:item/blank"
+  }
+}

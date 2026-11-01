@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mokels_bossfight_saphyra:block/blood_bricks_slab"
+    },
+    "type=top": {
+      "model": "mokels_bossfight_saphyra:block/blood_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "mokels_bossfight_saphyra:block/blood_bricks_slab_full"
+    }
+  }
+}

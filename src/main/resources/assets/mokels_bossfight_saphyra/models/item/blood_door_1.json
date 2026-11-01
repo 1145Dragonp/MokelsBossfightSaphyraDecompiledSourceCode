@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mokels_bossfight_saphyra:block/blooddoorbottom"
+  },
+  "render_type": "solid"
+}

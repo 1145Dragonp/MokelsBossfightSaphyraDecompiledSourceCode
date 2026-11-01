@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "mokels_bossfight_saphyra:fractured_clock_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 300,
+    "separation": 1,
+    "salt": 478253894
+  }
+}

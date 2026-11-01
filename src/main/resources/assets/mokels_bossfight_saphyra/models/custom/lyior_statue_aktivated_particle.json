@@ -1,0 +1,6 @@
+{
+  "parent": "mokels_bossfight_saphyra:displaysettings/lyiorstatue.item",
+  "textures": {
+    "particle": "mokels_bossfight_saphyra:block/lyiorstatueanimatedtexture"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mokels_bossfight_saphyra:custom/mothsword",
+  "textures": {
+    "0": "mokels_bossfight_saphyra:block/mothswordtexture",
+    "particle": "mokels_bossfight_saphyra:item/blank"
+  }
+}

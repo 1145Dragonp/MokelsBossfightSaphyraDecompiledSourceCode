@@ -1,0 +1,7 @@
+{
+  "parent": "mokels_bossfight_saphyra:custom/witchstaff",
+  "textures": {
+    "0": "mokels_bossfight_saphyra:block/witchstafftexture",
+    "particle": "mokels_bossfight_saphyra:item/blank"
+  }
+}

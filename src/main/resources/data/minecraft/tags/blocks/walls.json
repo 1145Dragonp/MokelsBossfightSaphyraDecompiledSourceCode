@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "mokels_bossfight_saphyra:locked_fog_hatered",
+    "mokels_bossfight_saphyra:locked_fog_lovers",
+    "mokels_bossfight_saphyra:locked_fog_steps",
+    "mokels_bossfight_saphyra:locked_fog_knife",
+    "mokels_bossfight_saphyra:locked_fog_worship",
+    "mokels_bossfight_saphyra:locked_fog_shattered",
+    "mokels_bossfight_saphyra:locked_fog_chain",
+    "mokels_bossfight_saphyra:dark_polished_azure_wall",
+    "mokels_bossfight_saphyra:dark_polished_blood_wall",
+    "mokels_bossfight_saphyra:blood_wall",
+    "mokels_bossfight_saphyra:azure_wall"
+  ]
+}

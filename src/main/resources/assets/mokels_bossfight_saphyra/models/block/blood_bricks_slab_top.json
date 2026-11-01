@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "mokels_bossfight_saphyra:block/deepslate_bricks",
+    "bottom": "mokels_bossfight_saphyra:block/deepslate_bricks",
+    "top": "mokels_bossfight_saphyra:block/deepslate_bricks",
+    "side": "mokels_bossfight_saphyra:block/deepslate_bricks"
+  },
+  "render_type": "solid"
+}

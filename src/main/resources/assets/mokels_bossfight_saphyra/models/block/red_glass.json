@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mokels_bossfight_saphyra:block/red_stained_glass",
+    "particle": "mokels_bossfight_saphyra:block/red_stained_glass"
+  },
+  "render_type": "translucent"
+}

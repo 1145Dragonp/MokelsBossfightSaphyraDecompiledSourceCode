@@ -1,0 +1,7 @@
+{
+  "parent": "mokels_bossfight_saphyra:custom/katanapoolofrot",
+  "textures": {
+    "0": "mokels_bossfight_saphyra:block/katanapoolofrottexture",
+    "particle": "mokels_bossfight_saphyra:item/blank"
+  }
+}

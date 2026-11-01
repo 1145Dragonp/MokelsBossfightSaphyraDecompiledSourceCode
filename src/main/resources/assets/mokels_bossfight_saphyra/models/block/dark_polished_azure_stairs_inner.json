@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "mokels_bossfight_saphyra:block/darkpolishedazurebricks",
+    "bottom": "mokels_bossfight_saphyra:block/darkpolishedazurebricks",
+    "top": "mokels_bossfight_saphyra:block/darkpolishedazurebricks",
+    "side": "mokels_bossfight_saphyra:block/darkpolishedazurebricks"
+  },
+  "render_type": "solid"
+}

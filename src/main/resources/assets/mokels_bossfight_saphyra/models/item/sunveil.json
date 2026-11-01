@@ -1,0 +1,7 @@
+{
+  "parent": "mokels_bossfight_saphyra:custom/sunveil",
+  "textures": {
+    "0": "mokels_bossfight_saphyra:block/animatedsunveil",
+    "particle": "mokels_bossfight_saphyra:item/blank"
+  }
+}

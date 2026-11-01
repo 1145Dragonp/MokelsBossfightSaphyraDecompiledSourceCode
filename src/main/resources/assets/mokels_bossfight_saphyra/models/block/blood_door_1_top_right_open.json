@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right_open",
+  "textures": {
+    "particle": "mokels_bossfight_saphyra:block/blooddoorbottom",
+    "bottom": "mokels_bossfight_saphyra:block/blooddoorbottom",
+    "top": "mokels_bossfight_saphyra:block/blooddoortop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mokels_bossfight_saphyra:block/dark_polished_blood_slab"
+    },
+    "type=top": {
+      "model": "mokels_bossfight_saphyra:block/dark_polished_blood_slab_top"
+    },
+    "type=double": {
+      "model": "mokels_bossfight_saphyra:block/dark_polished_blood_slab_full"
+    }
+  }
+}
